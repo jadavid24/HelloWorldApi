@@ -9,7 +9,7 @@ public class HolaMundoController : ControllerBase
     [HttpGet]
     public IActionResult GetHolaMundo()
     {
-        return Ok("Hello World Javier");
+        return Ok("Hello World Javier Segunda prueba");
     }
     
     //TODO: Crear un método post 
